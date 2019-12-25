@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--页面主背景色-->
+    <color name="layout_bg">#F5F5F5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#E81010</color>
+    <color name="blue">#2F75FF</color>
+    <color name="blue_view">#0F5AED</color>
+
+    <color name="line_gray">#ECECEC</color>
+
+    <color name="common_gray3">#333333</color>
+    <color name="hint_gray">#ACACAC</color>
+    <color name="line_gray_deep">#DCDCDC</color>
+
+    <drawable name="layout_bg_white_normal">#ffffff</drawable>
+    <drawable name="layout_bg_white_press">#dddddd</drawable>
+</resources>
